@@ -12,6 +12,9 @@ rivaling LLaMA3 8B in performance.
     <img src="./imgs/LLaDA_vs_LLaMA_chat.svg" style="width: 46%" />
 </div>
 
+## Paper
+
+https://arxiv.org/abs/2502.09992
 
 ## Inference
 The [LLaDA-8B-Base](https://huggingface.co/GSAI-ML/LLaDA-8B-Base) and [LLaDA-8B-Instruct](https://huggingface.co/GSAI-ML/LLaDA-8B-Instruct) are upload
