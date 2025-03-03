@@ -1,4 +1,16 @@
 # Large Language Diffusion Models
+
+
+## Demo
+https://ml-gsai.github.io/LLaDA-demo/
+
+## Paper
+
+https://arxiv.org/abs/2502.09992
+
+## Model
+https://huggingface.co/GSAI-ML
+
 [![arXiv](https://img.shields.io/badge/arXiv-2502.09992-red.svg)](https://arxiv.org/abs/2502.09992)
 [![deploy](https://img.shields.io/badge/Huggingface%20-LLaDA_Base%20-FFEB3B)](https://huggingface.co/GSAI-ML/LLaDA-8B-Base)
 [![deploy](https://img.shields.io/badge/Huggingface%20-LLaDA_Instruct%20-FFEB3B)](https://huggingface.co/GSAI-ML/LLaDA-8B-Instruct)
