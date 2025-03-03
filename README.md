@@ -16,6 +16,9 @@ rivaling LLaMA3 8B in performance.
 
 https://arxiv.org/abs/2502.09992
 
+## Model
+https://huggingface.co/GSAI-ML
+
 ## Inference
 The [LLaDA-8B-Base](https://huggingface.co/GSAI-ML/LLaDA-8B-Base) and [LLaDA-8B-Instruct](https://huggingface.co/GSAI-ML/LLaDA-8B-Instruct) are upload
 in Huggingface. Please first install `transformers==4.38.2` and employ the [transformers](https://huggingface.co/docs/transformers/index) to load.
