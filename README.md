@@ -12,6 +12,9 @@ rivaling LLaMA3 8B in performance.
     <img src="./imgs/LLaDA_vs_LLaMA_chat.svg" style="width: 46%" />
 </div>
 
+## Demo
+https://ml-gsai.github.io/LLaDA-demo/
+
 ## Paper
 
 https://arxiv.org/abs/2502.09992
